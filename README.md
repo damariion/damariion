@@ -8,5 +8,5 @@
   <img width="12" />
   <img src="./assets/windows.svg" height="40" alt="windows"  />
 </div>
-  <sub>Vulnerability Research · Exploit Development</sub>
+  <h4>Vulnerability Research · Exploit Development</h4>
 </div>
